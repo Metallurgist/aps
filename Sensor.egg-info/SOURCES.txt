@@ -6,6 +6,7 @@ Sensor.egg-info/dependency_links.txt
 Sensor.egg-info/requires.txt
 Sensor.egg-info/top_level.txt
 sensor/__init__.py
+sensor/config.py
 sensor/exception.py
 sensor/logger.py
 sensor/components/__init__.py
